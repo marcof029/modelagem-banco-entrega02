@@ -3,5 +3,7 @@ Modelagem e implementação de banco de dados SQLite para o estudo de caso Schul
 
 Arquivos
 01_estrutura.md
+
 02_dicionario.md
+
 03_banco.sql
